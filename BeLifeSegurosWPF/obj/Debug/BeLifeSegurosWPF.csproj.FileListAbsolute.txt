@@ -1,0 +1,304 @@
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csprojResolveAssemblyReference.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.lref
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.g.resources
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.Properties.Resources.resources
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.GenerateResource.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CoreCompileInputs.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.exe
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CopyComplete
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\System.Windows.Interactivity.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\Icons.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\IconsNonShared.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\System.Windows.Interactivity.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csprojResolveAssemblyReference.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\Icons.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\IconsNonShared.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.lref
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.g.resources
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.Properties.Resources.resources
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.GenerateResource.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CoreCompileInputs.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CopyComplete
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.exe
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaCliente.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaCliente.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\System.Windows.Interactivity.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csprojResolveAssemblyReference.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\Icons.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\IconsNonShared.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaCliente.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.lref
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaCliente.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.g.resources
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.Properties.Resources.resources
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.GenerateResource.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CoreCompileInputs.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CopyComplete
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.exe
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\System.Windows.Interactivity.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csprojResolveAssemblyReference.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\Icons.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\IconsNonShared.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaCliente.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.lref
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaCliente.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.g.resources
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.Properties.Resources.resources
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.GenerateResource.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CoreCompileInputs.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CopyComplete
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.exe
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaContrato.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaContrato.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\System.Windows.Interactivity.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csprojResolveAssemblyReference.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\Icons.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\IconsNonShared.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaCliente.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaContrato.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.lref
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaCliente.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaContrato.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.g.resources
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.Properties.Resources.resources
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.GenerateResource.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CoreCompileInputs.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CopyComplete
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.exe
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\System.Windows.Interactivity.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csprojResolveAssemblyReference.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\Icons.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\IconsNonShared.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaCliente.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaContrato.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.g.cs
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.lref
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaCliente.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaContrato.baml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.g.resources
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.Properties.Resources.resources
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.GenerateResource.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CoreCompileInputs.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CopyComplete
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.exe
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.pdb
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe.config
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.pdb
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.dll
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.dll
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.pdb
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll.config
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.pdb
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.xml
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.pdb
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll.config
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\Icons.baml
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaCliente.g.cs
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaContrato.g.cs
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.g.cs
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.cache
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.lref
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.baml
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.baml
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaCliente.baml
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaContrato.baml
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.g.resources
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.Properties.Resources.resources
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.GenerateResource.cache
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CopyComplete
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.exe
+C:\Users\Benjamin\Desktop\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.pdb
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe.config
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.exe
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSegurosWPF.pdb
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.dll
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.dll
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.dll
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\System.Windows.Interactivity.dll
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.pdb
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.Negocio.dll.config
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\ControlzEx.pdb
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.xml
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.pdb
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\MahApps.Metro.xml
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.pdb
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\bin\Debug\BeLifeSeguros.DALC.dll.config
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csprojAssemblyReference.cache
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\Icons.baml
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\Resources\IconsNonShared.baml
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.g.cs
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaCliente.g.cs
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaContrato.g.cs
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.g.cs
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.cache
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF_MarkupCompile.lref
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\App.baml
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\MainWindow.baml
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaCliente.baml
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\VentanaContrato.baml
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.g.resources
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.Properties.Resources.resources
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.GenerateResource.cache
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CoreCompileInputs.cache
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.csproj.CopyComplete
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.exe
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSegurosWPF\obj\Debug\BeLifeSegurosWPF.pdb

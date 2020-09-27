@@ -1,0 +1,105 @@
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csprojResolveAssemblyReference.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csproj.CoreCompileInputs.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csproj.CopyComplete
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\Segundo Respaldo\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csprojResolveAssemblyReference.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csproj.CoreCompileInputs.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csproj.CopyComplete
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csprojResolveAssemblyReference.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csproj.CoreCompileInputs.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csproj.CopyComplete
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\PruebaNegocio\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csprojResolveAssemblyReference.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csproj.CoreCompileInputs.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csproj.CopyComplete
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BelifeSeguros2\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csprojResolveAssemblyReference.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csproj.CoreCompileInputs.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csproj.CopyComplete
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\TODAS LAS INTERFACES LISTAS\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.pdb
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.dll.config
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csprojResolveAssemblyReference.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csproj.CoreCompileInputs.cache
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csproj.CopyComplete
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.dll
+D:\Estudio\Desarrollo de software\Unidad 3\VisualProject\BeLifeListoParaEntregar\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.pdb
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.dll.config
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.dll
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.Negocio.pdb
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.dll
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.dll
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.pdb
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\BeLifeSeguros.DALC.dll.config
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.xml
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSeguros.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csprojAssemblyReference.cache
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csproj.CoreCompileInputs.cache
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.csproj.CopyComplete
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.dll
+D:\Personales\Proyectos informaticos\.NET\BeLifeSeguros\BeLifeSeguros.Negocio\obj\Debug\BeLifeSeguros.Negocio.pdb
